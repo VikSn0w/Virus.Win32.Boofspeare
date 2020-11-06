@@ -5,7 +5,7 @@ This is a virus that I created for educational pourposes. You can study this vir
 Classification of this virus:
 - **Eviorement**: *Files* (Hard Drive memory dumping and RAM failure)
 - **Results after the exposure**: *Harmless ---> Hazardous* (in certain situations) 
-- **Algorithm**: *Parasitic* (creates an endless number of 500MB empty files and opens an endless amount of photos; it basically puts the PC to a state where you can't use anymore, but a full power off-on the virus is killed, the only thing that remains are the files)
+- **Algorithm**: *Parasitic* (creates an endless number of 500MB empty files and opens an endless amount of photos; it puts the PC into a state where you can't use it anymore, but a full power off-on and the virus is killed, the only thing that remains are the files)
 - **Type of Action**: *Stealth* (the process is hidden and the window is hidden, you can't close it)
 
 **DISCLAIMER**
